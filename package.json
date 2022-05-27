@@ -1,0 +1,19 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "## Введение Вам предстоит создать приложение для флэш-карт, которое должно работать как показано на Рисунке 1. Сосредоточьтесь на написании элегантного, объектно-ориентированного кода, не забывая при этом о качественном проектировании и об отборе лучших методов.",
+  "main": "Controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corrrector/Flashcards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corrrector/Flashcards/issues"
+  },
+  "homepage": "https://github.com/corrrector/Flashcards#readme"
+}
